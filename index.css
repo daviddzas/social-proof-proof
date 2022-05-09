@@ -16,7 +16,7 @@
         left: 0px;
         top: 0px;
     right: 1px;
-    bottom: 1298px;
+    bottom: 1098px;
     mix-blend-mode: normal;
     }
     
@@ -427,10 +427,12 @@ bottom: 644px;
 
 .svgtop{
     position: absolute;
+    width: 584px;
+     height: 362px;
 left: 0px;
 top: 0px;
 right: 856px;
-bottom: 438px;
+bottom: 1038px;
 mix-blend-mode: normal;
 }
 
@@ -853,4 +855,4 @@ color: #EE69A4;
 }
         }
             
-        }
+        
