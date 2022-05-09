@@ -1,3 +1,421 @@
+
+    .card{
+        width: 375px;
+        height: 1530px;
+        background: #ffffff;
+        position: relative;
+        top: 110px;
+        Left: 1765px;
+        
+    }
+    
+    .svgtop{
+        position: absolute;
+        width: 374px;
+        height: 232px;
+        left: 0px;
+        top: 0px;
+    right: 1px;
+    bottom: 1298px;
+    mix-blend-mode: normal;
+    }
+    
+    .svgbottom{
+        position: absolute;
+    width: 1085px;
+    height: 673px;
+    left: -355px;
+    top: 1201px;
+    right: -355px;
+    bottom: -81px;
+    mix-blend-mode: normal;
+    
+    }
+    
+          .header-sub{
+            position: absolute;
+    width: 327px;
+    height: 220px;
+    left: 24px;
+    top: 80px; 
+    right: 24px;
+    bottom: 1230px;      
+          }
+          
+          
+    
+          #head-title{
+            position: absolute;
+            width: 327px;
+            height: 102px;
+            left: 24px;
+            top: 80px;
+            right: 24px;
+            bottom: 155px;
+    
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    /* or 100% */
+    
+    text-align: center;
+    letter-spacing: -1.14286px;
+    
+    color: #512051;
+            
+        }
+        
+        #head-info{
+            position: absolute;
+            width: 327px;
+            height: 100px;
+            left: 24px;
+            top: 200px;
+            right: 24px;
+            bottom: 0px;
+            
+            font-family: 'Spartan';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+            
+            text-align: center;
+            letter-spacing: -0.5px;
+            
+            color: #927B91;
+             
+        }
+        
+        .rating{
+            position: absolute;
+            width: 327px;
+            height: 266px;
+            left: 24px;
+            top: 338px;
+            right: 24px;
+            bottom: 926px;
+        }
+        
+        .first-rating{
+            position: absolute;
+            width: 327px;
+            height: 266px;
+            left: 0px;
+            top: 0px;
+            right: 0px;
+            bottom: 188px;
+        
+        background: #F7F2F7;
+        border-radius: 8px;
+        }
+        
+        .tab1{
+            position: absolute;
+            width: 175px;
+            height: 46px;
+            left: 105px;
+            top: 16px;
+            right: 105px;
+            bottom: 46px;
+            }
+        
+        .first-rating-words,.second-rating-words,.third-rating-words{
+            position: absolute;
+            width: 174px;
+            height: 15px;
+            left: 76px;
+            right: 76px;
+            top: 48px;
+            bottom: 15px;
+            
+            font-family: 'Spartan';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 13px;
+            line-height: 15px;
+            /* identical to box height */
+            
+            
+            color: #512051;
+        
+        }
+        
+        .second-rating{ 
+            position: absolute;
+            width: 327px;
+            height: 266px;
+            left: 0px;
+            top: 94px;
+            right: 0px;
+            bottom: 94px;
+        
+        background: #F7F2F7;
+        border-radius: 8px;
+        }
+        
+        
+        .third-rating{
+            position: absolute;
+            width: 327px;
+            height: 266px;
+            left: 0px;
+            top: 188px;
+            right: 0px;
+            bottom: 0px;
+        
+        background: #F7F2F7;
+        border-radius: 8px;
+        }
+                
+        .first-footer-card{
+            position: absolute;
+width: 327px;
+height: 248px;
+left: 24px;
+top: 638px;
+right: 24px;
+bottom: 644px;
+        background: #512051;
+        border-radius: 8px;
+        }
+        
+        .img{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 32px;
+            top: 40px;
+            right: 278px;
+            bottom: 154px;
+            border: 2px;
+            border-radius: 50%;
+            
+            background: url(Image.png);
+        }
+        
+        .colton-sub{
+            position: absolute;
+        width: 100px;
+        height: 34px;
+        left: 95px;
+        top: 44px;
+        right: 155px;
+        bottom: 156px;
+        }
+        
+        .colton{
+            height: 15px;
+        width: 98px;
+        left: 95px;
+        top: 44px;
+        right: 157px;
+        bottom: 175px;
+        font-family: 'Spartan';
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #FFFFFF; 
+        }
+        
+        .colton-stats{ 
+            height: 15px;
+        width: 96px;
+        left: 95px;
+        top: 64px;
+        right: 159px;
+        bottom: 155px;
+        font-family: 'Spartan';
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 15px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #EE69A4;
+        }
+        
+        .colton-words{
+            position: absolute;
+            width: 286px;
+            height: 88px;
+            left: 32px;
+            top: 106px;
+            right: 32px;
+            bottom: 40px;
+            
+            font-family: 'Spartan';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 13px;
+            line-height: 22px;
+            /* or 169% */
+            
+            letter-spacing: -0.232143px;
+            
+            color: #FFFFFF;
+        
+        }
+        
+        
+        .second-footer-card{
+            position: absolute;
+            width: 327px;
+            height: 248px;
+            left: 24px;
+            top: 919px;
+            right: 24px;
+            bottom: 313px;
+        background: #512051;
+        border-radius: 8px;
+        }
+        
+        .Irene-sub{
+            position: absolute;
+        width: 100px;
+        height: 34px;
+        left: 95px;
+        top: 44px;
+        right: 155px;
+        bottom: 156px;
+        }
+        
+        .Irene{
+            height: 15px;
+        width: 98px;
+        left: 95px;
+        top: 44px;
+        right: 157px;
+        bottom: 175px;
+        font-family: 'Spartan';
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #FFFFFF; 
+        }
+        
+        .Irene-stats{
+            height: 15px;
+        width: 96px;
+        left: 95px;
+        top: 64px;
+        right: 159px;
+        bottom: 155px;
+        font-family: 'Spartan';
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 15px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #EE69A4;
+        
+        }
+        
+        .Irene-words{
+            position: absolute;
+        width: 286px;
+        height: 88px;
+        left: 32px;
+        top: 106px;
+        right: 32px;
+        bottom: 40px;
+        
+        font-family: 'Spartan';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 22px;
+        /* or 169% */
+        
+        letter-spacing: -0.232143px;
+        
+        color: #FFFFFF;
+        
+        }
+        
+        .third-footer-card{
+            position: absolute;
+            width: 327px;
+            height: 248px;
+            left: 24px;
+            top: 1201px;
+            right: 24px;
+            bottom: 81px;
+            background: #512051;
+            border-radius: 8px;    
+        }
+        
+        .Anne-sub{
+            position: absolute;
+        width: 100px;
+        height: 34px;
+        left: 95px;
+        top: 44px;
+        right: 155px;
+        bottom: 156px;
+        }
+        
+        .Anne{
+            height: 15px;
+        width: 98px;
+        left: 95px;
+        top: 44px;
+        right: 157px;
+        bottom: 175px;
+        font-family: 'Spartan';
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #FFFFFF; 
+        }
+        
+        .Anne-stats{
+            height: 15px;
+        width: 96px;
+        left: 95px;
+        top: 64px;
+        right: 159px;
+        bottom: 155px;
+        font-family: 'Spartan';
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 15px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #EE69A4;
+        }
+        
+        .Anne-words{
+            position: absolute;
+            width: 286px;
+            height: 88px;
+            left: 32px;
+            top: 106px;
+            right: 32px;
+            bottom: 40px;
+        
+            font-family: 'Spartan';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 13px;
+            line-height: 22px;
+            /* or 169% */
+            
+            letter-spacing: -0.232143px;
+            
+            color: #FFFFFF;
+        }
+        
+        @media (min-width: 900px){
+            
 .card{
     width: 1440px;
     height: 800px;
@@ -121,8 +539,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 13px;
 line-height: 15px;
-/* identical to box height */
-
 color: #512051;
 
 }
@@ -139,16 +555,6 @@ bottom: 72px;
 background: #F7F2F7;
 border-radius: 8px;
 }
-
-.tab2{
-    position: absolute;
-width: 116.55px;
-height: 15.77px;
-left: 32px;
-top: 20.09px;
-
-}
-
 
 .second-rating-words{
     position: absolute;
@@ -169,7 +575,6 @@ line-height: 15px;
 color: #512051;
 }
 
-
 .third-rating{
     width: 445px;
 height: 56px;
@@ -181,16 +586,6 @@ bottom: 0px;
 
 background: #F7F2F7;
 border-radius: 8px;
-
-}
-
-.tab3{
-    position: absolute;
-width: 116.55px;
-height: 15.77px;
-left: 32px;
-top: 20.09px;
-
 }
 
 .third-rating-words{
@@ -201,16 +596,12 @@ left: 181px;
 right: 88px;
 top: 11px;
 bottom: 20px;
-
 font-family: 'Spartan';
 font-style: normal;
 font-weight: 700;
 font-size: 13px;
 line-height: 15px;
-/* identical to box height */
-
 color: #512051;
-
 }
 
 
@@ -235,7 +626,7 @@ background: #512051;
 border-radius: 8px;
 }
 
-.img1{
+.img{
     position: absolute;
     width: 40px;
     height: 40px;
@@ -305,14 +696,10 @@ color: #EE69A4;
     font-weight: 500;
     font-size: 13px;
     line-height: 22px;
-    /* or 169% */
-    
     letter-spacing: -0.232143px;
-    
+
     color: #FFFFFF;
-
 }
-
 
 .second-footer-card{
     position: absolute;
@@ -322,23 +709,6 @@ left: 545px;
 top: 450px;
 background: #512051;
 border-radius: 8px;
-
-}
-
-.img2{
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    left: 32px;
-    top: 40px;
-    right: 278px;
-    bottom: 154px;
-    border: 2px;
-    border-radius: 50%;
-    
-    background: url(Image.png);
-    
-
 }
 
 .Irene-sub{
@@ -418,19 +788,6 @@ color: #FFFFFF;
     border-radius: 8px;    
 }
 
-.img3{
-    position: absolute;
-width: 40px;
-height: 40px;
-left: 32px;
-top: 40px;
-right: 278px;
-bottom: 154px;
-border: 2px;
-border-radius: 50%;
-
-background: url(Image.png);
-}
 
 .Anne-sub{
     position: absolute;
@@ -494,3 +851,6 @@ color: #EE69A4;
     
     color: #FFFFFF;
 }
+        }
+            
+        }
